@@ -1,0 +1,43 @@
+_repo: The-Lady-of-the-Forest--A-Story-for-Girls_39705
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Meade, L. T.
+    aliases:
+    - Meade, Mrs. L. T.
+    - Meade, Lillie
+    - Meade, Elizabeth Thomasina
+    - Thomas, Elizabeth
+    - Mead, L. T.
+    - Smith, Elizabeth Thomasina Meade
+    birthdate: 1854
+    deathdate: 1914
+    gutenberg_agent_id: '1621'
+    url: http://www.gutenberg.org/2009/agents/1621
+    wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
+description: ''
+gutenberg_issued: '2012-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39705'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Heirlooms -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Parent and child -- Juvenile fiction'
+- !lcsh 'Children -- Death -- Juvenile fiction'
+- !lcsh 'Temper -- Juvenile fiction'
+- !lcsh 'Inheritance and succession -- Juvenile fiction'
+- !lcsh 'Aunts -- Juvenile fiction'
+- !lcsh 'Household employees -- Juvenile fiction'
+title: 'The Lady of the Forest: A Story for Girls'
+url: http://www.gutenberg.org/ebooks/39705
