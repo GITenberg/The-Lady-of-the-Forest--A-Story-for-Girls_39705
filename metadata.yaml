@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1621
     wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39705#The-Lady-of-the-Forest--A-Story-for-Girls
 gutenberg_issued: '2012-05-15'
 gutenberg_type: Text
 identifiers:
